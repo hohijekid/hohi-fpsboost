@@ -1,0 +1,19 @@
+by hohi
+
+
+
+
+ReadMe 
+
+
+Open epic games launcher and go to epic settings and scroll down,click on fortnite and and turn on
+Additional Command Line Arguments and past this text "-USEALLAVAILABLECORES -NOSPLASH -PREFERREDPROCESSOR 6 -NOTEXTURESTREAMING -LANPLAY"
+
+
+
+
+
+
+
+by hohi
+
